@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/BrandLop/spiderverse/issues"
   },
-  "homepage": "https://github.com/BrandLop/spiderverse#readme"
+  "homepage": "https://github.com/BrandLop/spiderverse#readme",
+  "devDependencies": {
+    "jest": "^28.0.2"
+  }
 }
